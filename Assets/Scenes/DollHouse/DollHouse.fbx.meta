@@ -3,7 +3,117 @@ guid: fa4ce464d5dd7d141bd59f6c150877f3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box
+    second: {fileID: 2100000, guid: a0b911f49825c9a4c805c4331686e364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Espejo
+    second: {fileID: 2100000, guid: 6e43bc30d2b210140b263eda94e2f731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estanteria
+    second: {fileID: 2100000, guid: d5f531ed71873054393de7485dc3b85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FakeWall
+    second: {fileID: 2100000, guid: f483694d8b6d05d449af9b21b6379bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: e9d6c40b3cbfa6a46abe243c3918de5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa
+    second: {fileID: 2100000, guid: d463ae18c52ccb14785f18754905a213, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesita
+    second: {fileID: 2100000, guid: 97dceaba4f0d5994bbc39d18d61d8c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 8d030f14ae7b1c143bcdc4beed7d0d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilLamp
+    second: {fileID: 2100000, guid: d1616b4eab78f414791c4ec20657523f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiny Iris 1.3 (Real Deep Green)
+    second: {fileID: 2100000, guid: 1f8c82b4ca9225244b156c778294b200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiny Iris 1.3 (Real Deep Green).001
+    second: {fileID: 2100000, guid: 8d68adde16160e447ac690a607059afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiny Sclera 1.3 (Real Deep Green)
+    second: {fileID: 2100000, guid: b9700b4e0f432aa44b571b1e4284fe5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiny Sclera 1.3 (Real Deep Green).001
+    second: {fileID: 2100000, guid: 7dc8315153e343f49a2c8e3c47d203d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventana
+    second: {fileID: 2100000, guid: 364c5567c37724b49929ac20701218a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book
+    second: {fileID: 2100000, guid: f70bc1b2891cc3e488e06f7898ed040f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: comoda
+    second: {fileID: 2100000, guid: 50f629a53b81c6747b6faefe2a6dc5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 5357a407563d1344cbb5425eea3c8400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelain
+    second: {fileID: 2100000, guid: a1e75997c88ff374b94f7fc9e8c7dd3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelain.001
+    second: {fileID: 2100000, guid: 75b2b8f486e3c274697acc89408ce959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room
+    second: {fileID: 2100000, guid: d37cbbed8cd7b7840af5ae6e5492ac02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: viga
+    second: {fileID: 2100000, guid: 6207efb2401b2664da614ae3a4fa9094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 6fe5c947cfdbeda44a87b78359ef14ab, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
